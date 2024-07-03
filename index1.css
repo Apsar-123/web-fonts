@@ -1,0 +1,106 @@
+.abc{
+           font-size: 32px;
+           font-style: italic;
+           font-family: cursive;
+           text-decoration: 5px double rgb(208, 203, 64) underline;
+           font-weight: 900;
+           background-color: rgb(66, 158, 178);
+           width: 99%;
+           padding: 2%;
+           box-shadow: 2px 2px 2px 2px red ; 
+   
+        }
+
+     
+
+     .main{    
+    
+        background-color: rgb(180, 241, 241);
+        margin: 20px;
+        width: 15%;
+        display: inline-block;
+        padding: 5%;
+        border-radius: 60%;       
+        box-shadow: 0px 0px 30px 10px rgb(12, 12, 12) inset;
+        margin-left: 6%;
+       
+
+
+     }
+
+     #cursive:hover{
+        background-color: chartreuse;
+        
+        font-family: cursive;
+     }
+
+     #arial:hover{
+        background-color: rgb(27, 216, 216);
+        font-family: Arial, Helvetica, sans-serif;
+     }
+     #bold:hover{
+        background-color: rgb(52, 166, 75);
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     }
+     #verdana:hover{
+        background-color: rgb(196, 12, 196);
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+     }
+     #tahoma:hover{
+        background-color: rgb(222, 24, 113);
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     }
+     #trebuchet:hover{
+        background-color: rgb(217, 200, 20);
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     }
+
+      #times:hover{
+        background-color: rgb(226, 123, 13);
+        font-family:'Times New Roman', Times, serif;
+     }
+
+      #georgia:hover{
+        background-color: rgb(112, 241, 241);
+        font-family: Georgia, 'Times New Roman', Times, serif;
+     }
+
+
+      #courier:hover{
+        background-color: rgb(217, 127, 8);
+        font-family: 'Courier New', Courier, monospace;
+     }
+
+      #brush:hover{
+        background-color: rgb(238, 5, 5);
+        font-family: cursive;
+     }
+     
+      #andale:hover{
+        background-color: rgb(62, 207, 9);
+        font-family: monospace;
+     }
+
+
+     #bradley:hover{
+        background-color: rgb(121, 207, 109);
+        font-family: cursive;
+     }
+
+      #luminari:hover{
+        background-color: rgb(212, 28, 28);
+        font-family: cursive;
+     }
+
+
+      #comic:hover{
+        background-color: rgb(234, 22, 174);
+        font-family: cursive;
+     }
+
+      #italic:hover{
+        background-color: rgb(218, 104, 153);
+        font-style:italic ;
+     }
+
+     
